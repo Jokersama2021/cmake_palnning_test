@@ -1,4 +1,4 @@
-#pragma once
+#include<iostream>
 #include "pnc_map.h"
 
 using std::cout, std::endl;
